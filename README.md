@@ -1,32 +1,35 @@
-*👋 Hey, I'm Sergio*
+# 👋 Hey, I'm Sergio
 
-🚀 Full Stack Developer | Software Engineer
+## 🚀 Full Stack Developer | Software Engineer
 
 I'm a full-stack developer passionate about building efficient, scalable, and well-designed applications. I love working on innovative solutions, from back-end to front-end, with a strong focus on user experience and performance.
 
-💻 Technologies I Use
+---
 
-📌 Frontend:
+## 💻 Technologies I Use
 
-⚛️ React.js | 🚀 Next.js
+### 📌 Frontend:
 
-🎨 CSS3 | 🌀 Tailwind CSS | 🎭 SASS
+- ⚛️ **React.js** | 🚀 **Next.js**
+- 🎨 **CSS3** | 🌀 **Tailwind CSS** | 🎭 **SASS**
+- 🖥️ **HTML5** | 📐 **Figma**
 
-🖥️ HTML5 | 📐 Figma
+### ⚙️ Backend:
 
-⚙️ Backend:
+- 🟢 **Node.js** | ⚡ **Express.js**
+- 🐘 **PostgreSQL** | 🗄️ **MySQL** | 🍃 **MongoDB**
 
-🟢 Node.js | ⚡ Express.js
+### 🎯 Programming Languages:
 
-🐘 PostgreSQL | 🗄️ MySQL | 🍃 MongoDB
+- ☕ **Java**
+- 📜 **JavaScript (JS)** | 🔹 **TypeScript (TS)**
 
-🎯 Programming Languages:
+---
 
-☕ Java
+## 📫 Want to Connect?
 
-📜 JavaScript (JS) | 🔹 TypeScript (TS)
+📩 **Email:** [sggr40501@gmail.com](mailto\:sggr40501@gmail.com)\
 
 
-🌱 Always Learning
+I'm always open to new opportunities, collaborations, or just chatting about development. See you around! 🚀
 
-I love improving my skills and exploring new technologies. Currently, I'm diving deeper into React development and Django.
