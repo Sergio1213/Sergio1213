@@ -1,4 +1,4 @@
-👋 Hey, I'm Sergio
+*👋 Hey, I'm Sergio*
 
 🚀 Full Stack Developer | Software Engineer
 
